@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: var(--rose-white);
+  background-color: var(--eggshell);
   font-family: "outfit";
   font-size: 16px;
   color: var(--wenge-brown);
@@ -66,7 +66,7 @@ li::marker {
 .container__recipe > hr {
   max-width: 90%;
   margin: 2rem auto;
-  border-top: solid 1px var(--primary-nutmeg);
+  border-top: solid 1px var(--light-grey);
 }
 
 .container__recipe > ol > li {
