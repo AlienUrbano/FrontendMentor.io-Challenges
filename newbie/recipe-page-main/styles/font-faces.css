@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'outfit';
+    src: url('../assets/fonts/outfit/static/Outfit-Regular.ttf')
+    format('truetype');
+    font-weight: 400, 600, 700;
+    font-size: normal;
+}
+
+@font-face {
+    font-family: 'young';
+    src: url('../assets/fonts/young-serif/YoungSerif-Regular.ttf')
+    format('truetype');
+    font-weight: 400;
+    font-size: 16px;
+}
